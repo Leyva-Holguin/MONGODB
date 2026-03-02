@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "69a58b113656bdd37defd99c"
+  },
+  "nombre": "juan",
+  "edad": 22,
+  "hobbies": [
+    "nadar",
+    "leer"
+  ]
+},
+{
+  "_id": {
+    "$oid": "69a58c443656bdd37defd9ad"
+  },
+  "nombre": "ana",
+  "edad": 24
+},
+{
+  "_id": {
+    "$oid": "69a58c8c3656bdd37defd9ae"
+  },
+  "nombre": "luis",
+  "edad": 21,
+  "ciudad": "juarez",
+  "hobbies": [
+    "camimar",
+    "ajedrez"
+  ]
+}]
